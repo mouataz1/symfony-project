@@ -1,0 +1,15 @@
+{
+    "name": "CV_WEB_FR-ANG",
+    "version": "1.0.0",
+    "description": "my onligne cv",
+    "main": "index.js",
+    "scripts": {
+        "build:css": "tailwind build src/style.css -o dist/style.css"
+    },
+    "keywords": [],
+    "author": "Mouataz Hakkou",
+    "license": "ISC",
+    "dependencies": {
+        "tailwindcss": "^2.2.2"
+    }
+}
